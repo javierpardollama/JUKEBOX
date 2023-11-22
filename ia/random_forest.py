@@ -11,7 +11,7 @@ df['gender'] = df['gender'].map(d)
 
 
 # seleccionamos las colummnas 'feature' y la 'target'
-features = ['year', 'gender']
+features = ['year']
 
 x = df[features]
 y = df['gender']

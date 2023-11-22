@@ -9,7 +9,7 @@ df = pandas.read_json("../data/data.json")
 d = {'Rock': 0, 'Pop': 1, 'Pop Rock': 2, 'Alternative Rock':3, 'Flamenco':4, 'Electronic':5}
 df['gender'] = df['gender'].map(d)
 
-features = ['year', 'gender']
+features = ['year']
 
 x = df[features]
 y = df['gender']
