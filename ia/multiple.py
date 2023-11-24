@@ -3,6 +3,7 @@ import pandas
 from sklearn import linear_model
 from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.model_selection import train_test_split
+import numpy as np
 
 df = pandas.read_json("../data/data.json")
 
@@ -32,12 +33,15 @@ print("Mean squared error: %.2f" % mean_squared_error(y_test, z_pred))
 print("Coefficient of determination: %.2f" % r2_score(y_test, z_pred))
 
 
+x_line = np.linspace(x_test.likes.min(), x_test.likes.max(), 100)
+y_line = np.linspace(x_test.gender.min(), x_test.gender.max(), 100)
+z_vals = linear.predict(np.concatenate((x_line.reshape(-1, 1), y_line.reshape(-1, 1)), axis=1))
+
 fig = plt.figure()
 ax = fig.add_subplot(projection='3d')
 ax.scatter(x_test.likes, x_test.gender, y_test)
-ax.plot(x_test.likes, x_test.gender, z_pred)
+ax.plot(x_line, y_line, z_vals)
 
-print(z_pred)
 ax.set(title="Multiple Regression with SciKit Learn", xlabel='likes', ylabel='gender', zlabel='bought')
 
 plt.show()
