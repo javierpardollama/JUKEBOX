@@ -9,15 +9,17 @@ from sklearn.naive_bayes import GaussianNB
 
 df = pandas.read_json("../data/data.json")
 
-d = {'Rock': 0, 'Pop': 1, 'Pop Rock': 2, 'Alternative Rock':3, 'Flamenco':4, 'Electronic':5}
-df['gender'] = df['gender'].map(d)
+df = df.dropna()
 
-features = ['year', 'gender']
+d = { False: 0, True: 1}
+df['bought'] = df['bought'].map(d)
+
+features = ['likes']
 
 x = df[features]
-y = df['gender']
+y = df['bought']
 
-x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.33, random_state=42)
+x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.33, random_state=50)
 
 vayesian = GaussianNB()
 vayesian.fit(x_train, y_train)

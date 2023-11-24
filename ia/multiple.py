@@ -8,10 +8,12 @@ df = pandas.read_json("../data/data.json")
 
 df = df.dropna()
 
-d = { False: 0, True: 1}
-df['bought'] = df['bought'].map(d)
+db = { False: 0, True: 1}
+df['bought'] = df['bought'].map(db)
+dg = {'Rock':0, 'Pop':1, 'Pop Rock':2, 'Alternative Rock':3, 'Flamenco':4,'Electronic':5}
+df['gender'] = df['gender'].map(dg)
 
-features = ['likes']
+features = ['likes','gender']
 
 x = df[features]
 y = df['bought']
@@ -29,10 +31,13 @@ print("Mean squared error: %.2f" % mean_squared_error(y_test, z_pred))
 # The coefficient of determination: 1 is perfect prediction
 print("Coefficient of determination: %.2f" % r2_score(y_test, z_pred))
 
-plt.scatter(x_test, y_test, color="black")
-plt.plot(x_test, z_pred, color="blue", linewidth=3)
 
-plt.xlabel('likes')
-plt.ylabel('bought')
+fig = plt.figure()
+ax = fig.add_subplot(projection='3d')
+ax.scatter(x_test.likes, x_test.gender, y_test)
+ax.plot(x_test.likes, x_test.gender, z_pred)
+
+print(z_pred)
+ax.set(title="Multiple Regression with SciKit Learn", xlabel='likes', ylabel='gender', zlabel='bought')
 
 plt.show()
