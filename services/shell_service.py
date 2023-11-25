@@ -10,7 +10,7 @@ class ShellService:
         self.data_service.load()
 
     def main_menu(self):
-        while self.exit == False:
+        while not self.exit:
             option: str = (input("\n" +
                                  "******* Menu Principal **********  \n" +
                                  "1. Crear Album \n" +
@@ -34,7 +34,7 @@ class ShellService:
                     print("Opcion Incorrecta")
 
     def delete_menu(self):
-        while self.exit == False:
+        while not self.exit:
             option: str = input("\n" +
                                 "******* Menu de Borrado ********** \n" +
                                 "1. Borrar Album por Nombre \n" +
@@ -55,7 +55,7 @@ class ShellService:
                     print("Opcion Incorrecta")
 
     def search_menu(self):
-        while self.exit == False:
+        while not self.exit:
             option: str = input("\n" +
                                 "******* Menu de Búsqueda ********** \n" +
                                 "1. Lista Todos los Albumes \n" +
@@ -96,7 +96,8 @@ class ShellService:
         name: str = input("¿Nombre del Albumn?")
         year: int = int(input("Año de Publicación?"))
         gender: str = input("¿Genero del Albumn?")
-        self.data_service.add(artist, name, year)
+        likes: int = int(input("¿Nº de Likes?"))
+        self.data_service.add(artist, name, year, gender, likes)
         print("Disco Creado")
 
     def update(self):
@@ -104,7 +105,8 @@ class ShellService:
         name: str = input("¿Nombre del Albumn?")
         year: int = int(input("Año de Publicación?"))
         gender: str = input("¿Genero del Albumn?")
-        self.data_service.update(artist, name, year, gender)
+        likes: int = int(input("¿Nº de Likes?"))
+        self.data_service.update(artist, name, year, gender, likes)
         print("Disco Actualizado")
 
     def delete_by_name(self):
@@ -140,3 +142,5 @@ class ShellService:
     def get_all_by_gender(self):
         gender: str = input("Genero?")
         self.data_service.get_all_by_gender(gender)
+
+
