@@ -8,7 +8,7 @@ class DataService:
         self.data: list[Disk] = []
 
     def add(self, artist: str, name: str, year: int, gender: str, likes: int):
-        self.data.append(Disk(artist, name, year, gender, likes, false))
+        self.data.append(Disk(artist, name, year, gender, likes, False))
 
     def update(self, artist: str, name: str, year: int, gender: str, likes: int):
         idx = map(lambda item: item.name.startswith(

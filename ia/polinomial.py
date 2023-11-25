@@ -10,8 +10,8 @@ df = df.dropna()
 d = {False: 0, True: 1}
 df['bought'] = df['bought'].map(d)
 
-x = df['likes'].to_numpy()
-y = df['bought'].to_numpy()
+x = df['likes']
+y = df['bought']
 
 model1 = np.poly1d(np.polyfit(x, y, 1))
 model3 = np.poly1d(np.polyfit(x, y, 3))
