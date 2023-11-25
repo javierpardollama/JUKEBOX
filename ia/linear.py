@@ -21,16 +21,16 @@ x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.33, random
 linear = linear_model.LinearRegression()
 linear = linear.fit(x_train, y_train)
 
-z_pred = linear.predict(x_test)
+z_vals = linear.predict(x_test)
 
 print("Coefficients: \n", linear.coef_)
 # The mean squared error
-print("Mean squared error: %.2f" % mean_squared_error(y_test, z_pred))
+print("Mean squared error: %.2f" % mean_squared_error(y_test, z_vals))
 # The coefficient of determination: 1 is perfect prediction
-print("Coefficient of determination: %.2f" % r2_score(y_test, z_pred))
+print("Coefficient of determination: %.2f" % r2_score(y_test, z_vals))
 
 plt.scatter(x_test, y_test, color="black")
-plt.plot(x_test, z_pred, color="blue", linewidth=3)
+plt.plot(x_test, z_vals, color="blue", linewidth=3)
 
 plt.xlabel('likes')
 plt.ylabel('bought')
