@@ -8,7 +8,7 @@ df = pandas.read_json("../data/data.json")
 
 df = df.dropna()
 
-d = { False: 0, True: 1}
+d = {False: 0, True: 1}
 df['bought'] = df['bought'].map(d)
 
 features = ['likes']

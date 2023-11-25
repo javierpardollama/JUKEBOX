@@ -14,8 +14,8 @@ d = {False: 0, True: 1}
 df['bought'] = df['bought'].map(d)
 
 features = ['likes']
-x = df[features].to_numpy()
-y = df['bought'].to_numpy()
+x = df[features]
+y = df['bought']
 
 x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.33, random_state=42)
 
@@ -24,12 +24,11 @@ logis.fit(x_train, y_train)
 
 x_line = np.linspace(x_test.min(), x_test.max(), x_test.size)
 
-plt.scatter(x_test.ravel(),y_test)
-loss = expit(x_line * logis.coef_ + logis.intercept_).ravel()
+plt.scatter(x_test, y_test)
+loss = expit(x_line * logis.coef_ + logis.intercept_)
 plt.plot(x_line, loss, label="Logistic Regression Model", color="red", linewidth=3)
 
 plt.xlabel('likes')
 plt.ylabel('bought')
 
 plt.show()
-

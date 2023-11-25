@@ -9,12 +9,12 @@ df = pandas.read_json("../data/data.json")
 
 df = df.dropna()
 
-db = { False: 0, True: 1}
+db = {False: 0, True: 1}
 df['bought'] = df['bought'].map(db)
-dg = {'Rock':0, 'Pop':1, 'Pop Rock':2, 'Alternative Rock':3, 'Flamenco':4,'Electronic':5}
+dg = {'Rock': 0, 'Pop': 1, 'Pop Rock': 2, 'Alternative Rock': 3, 'Flamenco': 4, 'Electronic': 5}
 df['gender'] = df['gender'].map(dg)
 
-features = ['likes','gender']
+features = ['likes', 'gender']
 
 x = df[features]
 y = df['bought']
