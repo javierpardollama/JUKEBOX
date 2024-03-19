@@ -301,7 +301,7 @@
         "year": 1973,
         "gender":"Pop",
         "likes": 120,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Waterloo",
@@ -309,7 +309,7 @@
         "year": 1974,
         "gender":"Pop",
         "likes": 128,
-        "bought": false
+        "bought": true
     },
     {
         "name": "ABBA",
@@ -317,7 +317,7 @@
         "year": 1975,
         "gender":"Pop",
         "likes": 126,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Arrival",
@@ -325,7 +325,7 @@
         "year": 1976,
         "gender":"Pop",
         "likes": 124,
-        "bought": false
+        "bought": true
     },
     {
         "name": "The Album",
@@ -333,7 +333,7 @@
         "year": 1977,
         "gender":"Pop",
         "likes": 124,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Voulez-Vous",
@@ -341,7 +341,7 @@
         "year": 1979,
         "gender":"Pop",
         "likes": 126,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Super Trouper",
@@ -349,7 +349,7 @@
         "year": 1980,
         "gender":"Pop",
         "likes": 123,
-        "bought": false
+        "bought": true
     },
     {
         "name": "The Visitors",
@@ -357,7 +357,7 @@
         "year": 1981,
         "gender":"Pop",
         "likes": 125,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Voyage",
@@ -365,7 +365,7 @@
         "year": 2021,
         "gender":"Pop",
         "likes": 127,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Night Visions",
@@ -477,7 +477,7 @@
         "year": 2017,
         "gender":"Flamenco",
         "likes": 1250,
-        "bought": true
+        "bought": false
 
     },
     {
@@ -486,7 +486,7 @@
         "year": 2018,
         "gender":"Flamenco",
         "likes": 1252,
-        "bought": true
+        "bought": false
     },
     {
         "name": "Motomami",
@@ -494,7 +494,7 @@
         "year": 2022,
         "gender":"Flamenco",
         "likes": 1254,
-        "bought": true
+        "bought": false
     },
     {
         "name": "David Bowie",
@@ -717,7 +717,7 @@
         "year": 1996,
         "gender":"Pop",
         "likes": 220,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Spiceworld",
@@ -725,7 +725,7 @@
         "year": 1997,
         "gender":"Pop",
         "likes": 222,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Forever",
@@ -733,7 +733,7 @@
         "year": 2000,
         "gender":"Pop",
         "likes": 224,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Got to Be There",
@@ -741,7 +741,7 @@
         "year": 1972,
         "gender":"Pop",
         "likes": 226,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Ben",
@@ -749,7 +749,7 @@
         "year": 1972,
         "gender":"Pop",
         "likes": 228,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Music and Me",
@@ -757,7 +757,7 @@
         "year": 1973,
         "gender":"Pop",
         "likes": 223,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Forever, Michael",
@@ -765,7 +765,7 @@
         "year": 1975,
         "gender":"Pop",
         "likes": 225,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Off the Wall",
@@ -773,7 +773,7 @@
         "year": 1979,
         "gender":"Pop",
         "likes": 227,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Thriller",
@@ -781,7 +781,7 @@
         "year": 1982,
         "gender":"Pop",
         "likes": 229,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Bad",
@@ -789,7 +789,7 @@
         "year": 1987,
         "gender":"Pop",
         "likes": 230,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Dangerous",
@@ -797,7 +797,7 @@
         "year": 1991,
         "gender":"Pop",
         "likes": 232,
-        "bought": false
+        "bought": true
     },
     {
         "name": "History: Past, Present and Future, Book I",
@@ -805,7 +805,7 @@
         "year": 1995,
         "gender":"Pop",
         "likes": 234,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Blood on the Dance Floor: History in the Mix",
@@ -813,7 +813,7 @@
         "year": 1997,
         "gender":"Pop",
         "likes": 236,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Invincible",
@@ -821,7 +821,7 @@
         "year": 2001,
         "gender":"Pop",
         "likes": 238,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Michael",
@@ -829,7 +829,7 @@
         "year": 2010,
         "gender":"Pop",
         "likes": 231,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Xscape",
@@ -837,7 +837,7 @@
         "year": 2014,
         "gender":"Pop",
         "likes": 233,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Londinium",
@@ -845,7 +845,7 @@
         "year": 1996,
         "gender":"Electronic",
         "likes": 2520,
-        "bought": true
+        "bought": false
     },   
     {
         "name": "Take My Head",
@@ -853,7 +853,7 @@
         "year": 1999,
         "gender":"Electronic",
         "likes": 2522,
-        "bought": true
+        "bought": false
     },
     {
         "name": "You All Look the Same to Me  ",
@@ -861,7 +861,7 @@
         "year": 2002,
         "gender":"Electronic",
         "likes": 2524,
-        "bought": true
+        "bought": false
     },
     {
         "name": "Noise",
@@ -869,7 +869,7 @@
         "year": 2004,
         "gender":"Electronic",
         "likes": 2526,
-        "bought": true
+        "bought": false
     },
     {
         "name": "Lights ",
@@ -877,7 +877,7 @@
         "year": 2006,
         "gender":"Electronic",
         "likes": 2528,
-        "bought": true
+        "bought": false
     },
     {
         "name": "Controlling Crowds",
@@ -885,7 +885,7 @@
         "year": 2009,
         "gender":"Electronic",
         "likes": 2521,
-        "bought": true
+        "bought": false
     },
     {
         "name": "Controlling Crowds – Part IV",
@@ -893,7 +893,7 @@
         "year": 2012,
         "gender":"Electronic",
         "likes": 2523,
-        "bought": true
+        "bought": false
     },
     {
         "name": "With Us Until You're Dead ",
@@ -901,7 +901,7 @@
         "year": 2012,
         "gender":"Electronic",
         "likes": 2525,
-        "bought": true
+        "bought": false
     },
     {
         "name": "Axiom",
@@ -909,7 +909,7 @@
         "year": 2014,
         "gender":"Electronic",
         "likes": 2527,
-        "bought": true
+        "bought": false
     },
     {
         "name": "Restriction",
@@ -917,7 +917,7 @@
         "year": 2015,
         "gender":"Electronic",
         "likes": 2529,
-        "bought": true
+        "bought": false
     },
     {
         "name": "The False Foundation",
@@ -925,7 +925,7 @@
         "year": 2016,
         "gender":"Electronic",
         "likes": 2524,
-        "bought": true
+        "bought": false
     },
     {
         "name": "Call to Arms and Angels",
@@ -933,7 +933,7 @@
         "year": 2022,
         "gender":"Electronic",
         "likes": 2526,
-        "bought": true
+        "bought": false
     },
     {
         "name": "Homework",
@@ -941,7 +941,7 @@
         "year": 1997,
         "gender":"Electronic",
         "likes": 2528,
-        "bought": true
+        "bought": false
     },
     {
         "name": "Discovery",
@@ -949,7 +949,7 @@
         "year": 2001,
         "gender":"Electronic",
         "likes": 2521,
-        "bought": true
+        "bought": false
     },
     {
         "name": "Human After All",
@@ -957,13 +957,101 @@
         "year": 2005,
         "gender":"Electronic",
         "likes": 2523,
-        "bought": true
+        "bought": false
     },{
         "name": "Random Access Memories",
         "artist": "Daft Punk",
         "year": 2013,
         "gender":"Electronic",
         "likes": 5255,
+        "bought": false
+    },
+    {
+        "name": "Taylor Swift",
+        "artist": "Taylor Swift",
+        "year": 2006,
+        "gender":"Pop",
+        "likes": 5871,
+        "bought": true
+    },
+    {
+        "name": "Fearless",
+        "artist": "Taylor Swift",
+        "year": 2008,
+        "gender":"Pop",
+        "likes": 7286,
+        "bought": true
+    },
+    {
+        "name": "Speak Now",
+        "artist": "Taylor Swift",
+        "year": 2010,
+        "gender":"Pop",
+        "likes": 4817,
+        "bought": true
+    },
+    {
+        "name": "Red",
+        "artist": "Taylor Swift",
+        "year": 2012,
+        "gender":"Pop",
+        "likes": 4582,
+        "bought": true
+    },
+    {
+        "name": "1989",
+        "artist": "Taylor Swift",
+        "year": 2014,
+        "gender":"Pop",
+        "likes": 6472,
+        "bought": true
+    },
+    {
+        "name": "Reputation",
+        "artist": "Taylor Swift",
+        "year": 2017,
+        "gender":"Pop",
+        "likes": 2478,
+        "bought": true
+    },
+    {
+        "name": "Lover",
+        "artist": "Taylor Swift",
+        "year": 2019,
+        "gender":"Pop",
+        "likes": 2000,
+        "bought": true
+    },
+    {
+        "name": "Folklore",
+        "artist": "Taylor Swift",
+        "year": 2020,
+        "gender":"Pop",
+        "likes": 2289,
+        "bought": true
+    },
+    {
+        "name": "Evermore",
+        "artist": "Taylor Swift",
+        "year": 2020,
+        "gender":"Pop",
+        "likes": 913,
+        "bought": true
+    },
+    {
+        "name": "Midnights",
+        "artist": "Taylor Swift",
+        "year": 2022,
+        "gender":"Pop",
+        "likes": 2814,
+        "bought": true
+    },
+    {
+        "name": "The Tortured Poets Department",
+        "artist": "Taylor Swift",
+        "year": 2024,
+        "gender":"Pop",
+        "likes": "",
         "bought": true
     }
 ]
