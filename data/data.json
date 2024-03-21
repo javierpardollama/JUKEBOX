@@ -1051,7 +1051,7 @@
         "artist": "Taylor Swift",
         "year": 2024,
         "gender":"Pop",
-        "likes": "",
+        "likes": null,
         "bought": true
     }
 ]
