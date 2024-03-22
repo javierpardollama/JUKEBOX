@@ -95,7 +95,7 @@ class ShellService:
     def add(self) -> None:
         artist: str = input("¿Nombre del Artista?")
         name: str = input("¿Nombre del Albumn?")
-        year: int = int(input("Año de Publicación?"))
+        year: int = int(input("¿Año de Publicación?"))
         gender: str = input("¿Genero del Albumn?")
         likes: int = Optional[int](input("¿Nº de Likes?"))
         self.data_service.add(artist, name, year, gender, likes)
@@ -104,7 +104,7 @@ class ShellService:
     def update(self) -> None:
         artist: str = input("¿Nombre del Artista?")
         name: str = input("¿Nombre del Albumn?")
-        year: int = int(input("Año de Publicación?"))
+        year: int = int(input("¿Año de Publicación?"))
         gender: str = input("¿Genero del Albumn?")
         likes: int = Optional[int](input("¿Nº de Likes?"))
         self.data_service.update(artist, name, year, gender, likes)
@@ -137,7 +137,7 @@ class ShellService:
         self.data_service.get_all_by_artist(artist)
 
     def get_all_by_year(self) -> None:
-        year: int = int(input("Año de Publicación?"))
+        year: int = int(input("¿Año de Publicación?"))
         self.data_service.get_all_by_year(year)
 
     def get_all_by_gender(self) -> None:
