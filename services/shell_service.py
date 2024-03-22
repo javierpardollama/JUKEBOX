@@ -1,3 +1,4 @@
+from typing import Optional
 from services.data_service import DataService
 
 
@@ -5,11 +6,11 @@ class ShellService:
 
     exit: bool = False
 
-    def __init__(self):
+    def __init__(self) -> None:
         self.data_service = DataService()
         self.data_service.load()
 
-    def main_menu(self):
+    def main_menu(self) -> None:
         while not self.exit:
             option: str = (input("\n" +
                                  "******* Menu Principal **********  \n" +
@@ -33,7 +34,7 @@ class ShellService:
                 case other:
                     print("Opcion Incorrecta")
 
-    def delete_menu(self):
+    def delete_menu(self) -> None:
         while not self.exit:
             option: str = input("\n" +
                                 "******* Menu de Borrado ********** \n" +
@@ -54,7 +55,7 @@ class ShellService:
                 case other:
                     print("Opcion Incorrecta")
 
-    def search_menu(self):
+    def search_menu(self) -> None:
         while not self.exit:
             option: str = input("\n" +
                                 "******* Menu de Búsqueda ********** \n" +
@@ -81,66 +82,66 @@ class ShellService:
                 case other:
                     print("Opcion Incorrecta")
 
-    def start(self):
+    def start(self) -> None:
         self.main_menu()
 
-    def stop(self):
+    def stop(self) -> None:
         self.exit = True
         print("Guardando")
         self.data_service.save()
         print("Guardado Completado")
         quit()
 
-    def add(self):
+    def add(self) -> None:
         artist: str = input("¿Nombre del Artista?")
         name: str = input("¿Nombre del Albumn?")
         year: int = int(input("Año de Publicación?"))
         gender: str = input("¿Genero del Albumn?")
-        likes: int = int(input("¿Nº de Likes?"))
+        likes: int = Optional[int](input("¿Nº de Likes?"))
         self.data_service.add(artist, name, year, gender, likes)
         print("Disco Creado")
 
-    def update(self):
+    def update(self) -> None:
         artist: str = input("¿Nombre del Artista?")
         name: str = input("¿Nombre del Albumn?")
         year: int = int(input("Año de Publicación?"))
         gender: str = input("¿Genero del Albumn?")
-        likes: int = int(input("¿Nº de Likes?"))
+        likes: int = Optional[int](input("¿Nº de Likes?"))
         self.data_service.update(artist, name, year, gender, likes)
         print("Disco Actualizado")
 
-    def delete_by_name(self):
+    def delete_by_name(self) -> None:
         name: str = input("¿Nombre del Albumn?")
         self.data_service.delete_by_name(name)
         print("Disco Borrado")
 
-    def delete_by_artist(self):
+    def delete_by_artist(self) -> None:
         artist: str = input("¿Nombre del Artista?")
         self.data_service.delete_by_artist(artist)
         print("Discos Borrados")
 
-    def delete_by_year(self):
-        year: int = int(input("Año de Publicación?"))
+    def delete_by_year(self) -> None:
+        year: int = int(input("¿Año de Publicación?"))
         self.data_service.delete_by_year(year)
         print("Discos Borrados")
 
-    def get_all(self):
+    def get_all(self) -> None:
         self.data_service.get_all()
 
-    def get_all_by_name(self):
+    def get_all_by_name(self) -> None:
         name: str = input("¿Nombre del Albumn?")
         self.data_service.get_all_by_name(name)
 
-    def get_all_by_artist(self):
+    def get_all_by_artist(self) -> None:
         artist: str = input("¿Nombre del Artista?")
         self.data_service.get_all_by_artist(artist)
 
-    def get_all_by_year(self):
+    def get_all_by_year(self) -> None:
         year: int = int(input("Año de Publicación?"))
         self.data_service.get_all_by_year(year)
 
-    def get_all_by_gender(self):
-        gender: str = input("Genero?")
+    def get_all_by_gender(self) -> None:
+        gender: str = input("¿Genero?")
         self.data_service.get_all_by_gender(gender)
 
 
