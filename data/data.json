@@ -4,31 +4,31 @@
         "artist": "Queen",
         "year": 1973,
         "gender":"Rock",
-        "likes": 560,
-        "bought": false
+        "likes": 3258,
+        "bought": true
     },
     {
         "name": "Queen II",
         "artist": "Queen",
         "year": 1974,
         "gender":"Rock",
-        "likes": 480,
-        "bought": false
+        "likes": 4017,
+        "bought": true
     },
     {
         "name": "Sheer Heart Attack",
         "artist": "Queen",
         "year": 1974,
         "gender":"Rock",
-        "likes": 487,
-        "bought": false
+        "likes": 2427,
+        "bought": true
     },
     {
         "name": "A Night at the Opera",
         "artist": "Queen",
         "year": 1975,
         "gender":"Rock",
-        "likes": 565,
+        "likes": 2712,
         "bought": false
     },
     {
@@ -36,55 +36,55 @@
         "artist": "Queen",
         "year": 1977,
         "gender":"Rock",
-        "likes": 562,
-        "bought": false
+        "likes": 3488,
+        "bought": true
     },
     {
         "name": "Jazz",
         "artist": "Queen",
         "year": 1978,
         "gender":"Rock",
-        "likes": 568,
-        "bought": false
+        "likes": 1377,
+        "bought": true
     },
     {
         "name": "The Game",
         "artist": "Queen",
         "year": 1980,
         "gender":"Rock",
-        "likes": 492,
-        "bought": false
+        "likes": 6636,
+        "bought": true
     },
     {
         "name": "Hot Space",
         "artist": "Queen",
         "year": 1982,
         "gender":"Rock",
-        "likes": 482,
-        "bought": false
+        "likes": 1762,
+        "bought": true
     },
     {
         "name": "The Works",
         "artist": "Queen",
         "year": 1984,
         "gender":"Rock",
-        "likes": 552,
-        "bought": false
+        "likes": 5530,
+        "bought": true
     },
     {
         "name": "A Kind of Magic",
         "artist": "Queen",
         "year": 1986,
         "gender":"Rock",
-        "likes": 542,
-        "bought": false
+        "likes": 3328,
+        "bought": true
     },
     {
         "name": "The Miracle",
         "artist": "Queen",
         "year": 1989,
         "gender":"Rock",
-        "likes": 462,
+        "likes": 402,
         "bought": false
     },
     {
@@ -92,63 +92,63 @@
         "artist": "Queen",
         "year": 1991,
         "gender":"Rock",
-        "likes": 464,
-        "bought": false
+        "likes": 6228,
+        "bought": true
     },
     {
         "name": "Made in Heaven",
         "artist": "Queen",
         "year": 1995,
         "gender":"Rock",
-        "likes": 465,
-        "bought": false
+        "likes": 3826,
+        "bought": true
     },
     {
         "name": "Bleach",
         "artist": "Nirvana",
         "year": 1989,
         "gender":"Rock",
-        "likes": 580,
-        "bought": false
+        "likes": 772,
+        "bought": true
     },
     {
         "name": "Nevermind",
         "artist": "Nirvana",
         "year": 1991,
         "gender":"Rock",
-        "likes": 582,
-        "bought": false
+        "likes": 7362,
+        "bought": true
     },
     {
         "name": "In Utero",
         "artist": "Nirvana",
         "year": 1993,
         "gender":"Rock",
-        "likes": 586,
-        "bought": false
+        "likes": 5031,
+        "bought": true
     },
     {
         "name": "Please Please Me",
         "artist": "The Beatles",
         "year": 1963,
         "gender":"Rock",
-        "likes": 698,
-        "bought": false
+        "likes": 857,
+        "bought": true
     },
     {
         "name": "With the Beatles",
         "artist": "The Beatles",
         "year": 1963,
         "gender":"Rock",
-        "likes": 694,
-        "bought": false
+        "likes": 5951,
+        "bought": true
     },
     {
         "name": "Introducing... The Beatles",
         "artist": "The Beatles",
         "year": 1964,
         "gender":"Rock",
-        "likes": 686,
+        "likes": 4856,
         "bought": false
     },
     {
@@ -156,7 +156,7 @@
         "artist": "The Beatles",
         "year": 1964,
         "gender":"Rock",
-        "likes": 684,
+        "likes": 7744,
         "bought": false
     },
     {
@@ -164,15 +164,15 @@
         "artist": "The Beatles",
         "year": 1964,
         "gender":"Rock",
-        "likes": 682,
-        "bought": false
+        "likes": 259,
+        "bought": true
     },
     {
         "name": "A Hard Day's Night",
         "artist": "The Beatles",
         "year": 1964,
         "gender":"Rock",
-        "likes": 694,
+        "likes": 6619,
         "bought": false
     },
     {
@@ -180,7 +180,7 @@
         "artist": "The Beatles",
         "year": 1964,
         "gender":"Rock",
-        "likes": 696,
+        "likes": 2370,
         "bought": false
     },
     {
@@ -188,31 +188,31 @@
         "artist": "The Beatles",
         "year": 1964,
         "gender":"Rock",
-        "likes": 702,
-        "bought": false
+        "likes": 4295,
+        "bought": true
     },
     {
         "name": "Beatles '65",
         "artist": "The Beatles",
         "year": 1964,
         "gender":"Rock",
-        "likes": 704,
-        "bought": false
+        "likes": 6034,
+        "bought": true
     },
     {
         "name": "The Early Beatles",
         "artist": "The Beatles",
         "year": 1965,
         "gender":"Rock",
-        "likes": 706,
-        "bought": false
+        "likes": 7553,
+        "bought": true
     },
     {
         "name": "Beatles VI",
         "artist": "The Beatles",
         "year": 1965,
         "gender":"Rock",
-        "likes": 708,
+        "likes": 6941,
         "bought": false
     },
     {
@@ -220,15 +220,15 @@
         "artist": "The Beatles",
         "year": 1965,
         "gender":"Rock",
-        "likes": 703,
-        "bought": false
+        "likes": 6048,
+        "bought": true
     },
     {
         "name": "Rubber Soul",
         "artist": "The Beatles",
         "year": 1965,
         "gender":"Rock",
-        "likes": 705,
+        "likes": 5927,
         "bought": false
     },
     {
@@ -236,7 +236,7 @@
         "artist": "The Beatles",
         "year": 1966,
         "gender":"Rock",
-        "likes": 707,
+        "likes": 8723,
         "bought": false
     },
     {
@@ -244,15 +244,15 @@
         "artist": "The Beatles",
         "year": 1966,
         "gender":"Rock",
-        "likes": 701,
-        "bought": false
+        "likes": 304,
+        "bought": true
     },
     {
         "name": "Sgt. Pepper's Lonely Hearts Club Band",
         "artist": "The Beatles",
         "year": 1967,
         "gender":"Rock",
-        "likes": 698,
+        "likes": 5256,
         "bought": false
     },
     {
@@ -260,7 +260,7 @@
         "artist": "The Beatles",
         "year": 1967,
         "gender":"Rock",
-        "likes": 696,
+        "likes": 5613,
         "bought": false
     },
     {
@@ -268,15 +268,15 @@
         "artist": "The Beatles",
         "year": 1967,
         "gender":"Rock",
-        "likes": 694,
-        "bought": false
+        "likes": 6997,
+        "bought": true
     },
     {
         "name": "Yellow Submarine",
         "artist": "The Beatles",
         "year": 1968,
         "gender":"Rock",
-        "likes": 692,
+        "likes": 3905,
         "bought": false
     },
     {
@@ -284,7 +284,7 @@
         "artist": "The Beatles",
         "year": 1968,
         "gender":"Rock",
-        "likes": 687,
+        "likes": 2615,
         "bought": false
     },
     {
@@ -292,23 +292,23 @@
         "artist": "The Beatles",
         "year": 1970,
         "gender":"Rock",
-        "likes": 685,
-        "bought": false
+        "likes": 3889,
+        "bought": true
     },
     {
         "name": "Ring Ring",
         "artist": "ABBA",
         "year": 1973,
         "gender":"Pop",
-        "likes": 120,
-        "bought": true
+        "likes": 2677,
+        "bought": false
     },
     {
         "name": "Waterloo",
         "artist": "ABBA",
         "year": 1974,
         "gender":"Pop",
-        "likes": 128,
+        "likes": 4080,
         "bought": true
     },
     {
@@ -316,15 +316,15 @@
         "artist": "ABBA",
         "year": 1975,
         "gender":"Pop",
-        "likes": 126,
-        "bought": true
+        "likes": 4119,
+        "bought": false
     },
     {
         "name": "Arrival",
         "artist": "ABBA",
         "year": 1976,
         "gender":"Pop",
-        "likes": 124,
+        "likes": 4104,
         "bought": true
     },
     {
@@ -332,23 +332,23 @@
         "artist": "ABBA",
         "year": 1977,
         "gender":"Pop",
-        "likes": 124,
-        "bought": true
+        "likes": 6545,
+        "bought": false
     },
     {
         "name": "Voulez-Vous",
         "artist": "ABBA",
         "year": 1979,
         "gender":"Pop",
-        "likes": 126,
-        "bought": true
+        "likes": 6427,
+        "bought": false
     },
     {
         "name": "Super Trouper",
         "artist": "ABBA",
         "year": 1980,
         "gender":"Pop",
-        "likes": 123,
+        "likes": 618,
         "bought": true
     },
     {
@@ -356,7 +356,7 @@
         "artist": "ABBA",
         "year": 1981,
         "gender":"Pop",
-        "likes": 125,
+        "likes": 4548,
         "bought": true
     },
     {
@@ -364,8 +364,8 @@
         "artist": "ABBA",
         "year": 2021,
         "gender":"Pop",
-        "likes": 127,
-        "bought": true
+        "likes": 219,
+        "bought": false
     },
     {
         "name": "Night Visions",
@@ -380,7 +380,7 @@
         "artist": "Imagine Dragons",
         "year": 2015,
         "gender":"Pop Rock",
-        "likes": 232,
+        "likes": 5875,
         "bought": false
     },
     {
@@ -388,7 +388,7 @@
         "artist": "Imagine Dragons",
         "year": 2017,
         "gender":"Pop Rock",
-        "likes": 234,
+        "likes": 6878,
         "bought": false
     },
     {
@@ -396,7 +396,7 @@
         "artist": "Imagine Dragons",
         "year": 2018,
         "gender":"Pop Rock",
-        "likes": 238,
+        "likes": 5493,
         "bought": false
     },
     {
@@ -404,15 +404,15 @@
         "artist": "MUSE",
         "year": 1999,
         "gender":"Alternative Rock",
-        "likes": 860,
-        "bought": false
+        "likes": 7846,
+        "bought": true
     },
     {
         "name": "Origin of Symmetry",
         "artist": "MUSE",
         "year": 2001,
         "gender":"Alternative Rock",
-        "likes": 862,
+        "likes": 7660,
         "bought": false
     },
     {
@@ -420,7 +420,7 @@
         "artist": "MUSE",
         "year": 2003,
         "gender":"Alternative Rock",
-        "likes": 864,
+        "likes": 4077,
         "bought": false
     },
     {
@@ -428,7 +428,7 @@
         "artist": "MUSE",
         "year": 2006,
         "gender":"Alternative Rock",
-        "likes": 866,
+        "likes": 787,
         "bought": false
     },
     {
@@ -436,7 +436,7 @@
         "artist": "MUSE",
         "year": 2009,
         "gender":"Alternative Rock",
-        "likes": 868,
+        "likes": 533,
         "bought": false
     },
     {
@@ -444,7 +444,7 @@
         "artist": "MUSE",
         "year": 2012,
         "gender":"Alternative Rock",
-        "likes": 870,
+        "likes": 512,
         "bought": false
     },
     {
@@ -452,15 +452,15 @@
         "artist": "MUSE",
         "year": 2015,
         "gender":"Alternative Rock",
-        "likes": 861,
-        "bought": false
+        "likes": 6578,
+        "bought": true
     },
     {
         "name": "Simulation Theory",
         "artist": "MUSE",
         "year": 2018,
         "gender":"Alternative Rock",
-        "likes": 863,
+        "likes": 5890,
         "bought": false
     },
     {
@@ -468,7 +468,7 @@
         "artist": "MUSE",
         "year": 2022,
         "gender":"Alternative Rock",
-        "likes": 865,
+        "likes": 908,
         "bought": false
     },
     {
@@ -476,8 +476,8 @@
         "artist": "Rosalía",
         "year": 2017,
         "gender":"Flamenco",
-        "likes": 1250,
-        "bought": false
+        "likes": 3698,
+        "bought": true
 
     },
     {
@@ -485,15 +485,15 @@
         "artist": "Rosalía",
         "year": 2018,
         "gender":"Flamenco",
-        "likes": 1252,
-        "bought": false
+        "likes": 7723,
+        "bought": true
     },
     {
         "name": "Motomami",
         "artist": "Rosalía",
         "year": 2022,
         "gender":"Flamenco",
-        "likes": 1254,
+        "likes": 831,
         "bought": false
     },
     {
@@ -501,22 +501,22 @@
         "artist": "David Bowie",
         "year": 1967,
         "gender":"Rock",
-        "bought": false
+        "bought": true
     },
     {
         "name": "Space Oddity",
         "artist": "David Bowie",
         "year": 1969,
         "gender":"Rock",
-        "likes": 490,
-        "bought": false
+        "likes": 4677,
+        "bought": true
     },
     {
         "name": "Space Oddity",
         "artist": "David Bowie",
         "year": 1969,
         "gender":"Rock",
-        "likes": 492,
+        "likes": 5680,
         "bought": false
     },
     {
@@ -524,15 +524,15 @@
         "artist": "David Bowie",
         "year": 1970,
         "gender":"Rock",
-        "likes": 494,
-        "bought": false
+        "likes": 5047,
+        "bought": true
     },
     {
         "name": "Hunky Dory",
         "artist": "David Bowie",
         "year": 1971,
         "gender":"Rock",
-        "likes": 492,
+        "likes": 7242,
         "bought": false
     },
     {
@@ -541,30 +541,30 @@
         "year": 1972,
         "gender":"Rock",
         "likes": 496,
-        "bought": false
+        "bought": true
     },
     {
         "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
         "artist": "David Bowie",
         "year": 1972,
         "gender":"Rock",
-        "likes": 498,
-        "bought": false
+        "likes": 1735,
+        "bought": true
     },
     {
         "name": "Aladdin Sane",
         "artist": "David Bowie",
         "year": 1973,
         "gender":"Rock",
-        "likes": 492,
-        "bought": false
+        "likes": 565,
+        "bought": true
     },
     {
         "name": "Pin Ups",
         "artist": "David Bowie",
         "year": 1973,
         "gender":"Rock",
-        "likes": 493,
+        "likes": 1521,
         "bought": false
     },
     {
@@ -572,7 +572,7 @@
         "artist": "David Bowie",
         "year": 1974,
         "gender":"Rock",
-        "likes": 495,
+        "likes": 4310,
         "bought": false
     },
     {
@@ -580,39 +580,39 @@
         "artist": "David Bowie",
         "year": 1975,
         "gender":"Rock",
-        "likes": 497,
-        "bought": false
+        "likes": 5878,
+        "bought": true
     },
     {
         "name": "Station to Station",
         "artist": "David Bowie",
         "year": 1976,
         "gender":"Rock",
-        "likes": 499,
-        "bought": false
+        "likes": 1245,
+        "bought": true
     },
     {
         "name": "Low",
         "artist": "David Bowie",
         "year": 1977,
         "gender":"Rock",
-        "likes": 481,
-        "bought": false
+        "likes": 5378,
+        "bought": true
     },
     {
         "name": "'Heroes'",
         "artist": "David Bowie",
         "year": 1977,
         "gender":"Rock",
-        "likes": 483,
-        "bought": false
+        "likes": 792,
+        "bought": true
     },
     {
         "name": "Lodger",
         "artist": "David Bowie",
         "year": 1979,
         "gender":"Rock",
-        "likes": 482,
+        "likes": 4471,
         "bought": false
     },
     {
@@ -620,7 +620,7 @@
         "artist": "David Bowie",
         "year": 1980,
         "gender":"Rock",
-        "likes": 485,
+        "likes": 5344,
         "bought": false
     },
     {
@@ -628,7 +628,7 @@
         "artist": "David Bowie",
         "year": 1983,
         "gender":"Rock",
-        "likes": 484,
+        "likes": 1719,
         "bought": false
     },
     {
@@ -636,7 +636,7 @@
         "artist": "David Bowie",
         "year": 1984,
         "gender":"Rock",
-        "likes": 489,
+        "likes": 1395,
         "bought": false
     },
     {
@@ -644,23 +644,23 @@
         "artist": "David Bowie",
         "year": 1987,
         "gender":"Rock",
-        "likes": 491,
-        "bought": false
+        "likes": 7952,
+        "bought": true
     },
     {
         "name": "Black Tie White Noise",
         "artist": "David Bowie",
         "year": 1993,
         "gender":"Rock",
-        "likes": 493,
-        "bought": false
+        "likes": 7362,
+        "bought": true
     },
     {
         "name": "Outside",
         "artist": "David Bowie",
         "year": 1995,
         "gender":"Rock",
-        "likes": 495,
+        "likes": 6567,
         "bought": false
     },
     {
@@ -668,7 +668,7 @@
         "artist": "David Bowie",
         "year": 1997,
         "gender":"Rock",
-        "likes": 497,
+        "likes": 571,
         "bought": false
     },
     {
@@ -676,7 +676,7 @@
         "artist": "David Bowie",
         "year": 1999,
         "gender":"Rock",
-        "likes": 499,
+        "likes": 6104,
         "bought": false
     },
     {
@@ -684,7 +684,7 @@
         "artist": "David Bowie",
         "year": 2002,
         "gender":"Rock",
-        "likes": 492,
+        "likes": 405,
         "bought": false
     },
     {
@@ -692,7 +692,7 @@
         "artist": "David Bowie",
         "year": 2003,
         "gender":"Rock",
-        "likes": 494,
+        "likes": 6875,
         "bought": false
     },
     {
@@ -700,7 +700,7 @@
         "artist": "David Bowie",
         "year": 2013,
         "gender":"Rock",
-        "likes": 496,
+        "likes": 1868,
         "bought": false
     },
     {
@@ -708,7 +708,7 @@
         "artist": "David Bowie",
         "year": 2016,
         "gender":"Rock",
-        "likes": 498,
+        "likes": 5985,
         "bought": false
     },
     {
@@ -716,7 +716,7 @@
         "artist": "Spice Girls",
         "year": 1996,
         "gender":"Pop",
-        "likes": 220,
+        "likes": 1107,
         "bought": true
     },
     {
@@ -724,15 +724,15 @@
         "artist": "Spice Girls",
         "year": 1997,
         "gender":"Pop",
-        "likes": 222,
-        "bought": true
+        "likes": 3623,
+        "bought": false
     },
     {
         "name": "Forever",
         "artist": "Spice Girls",
         "year": 2000,
         "gender":"Pop",
-        "likes": 224,
+        "likes": 5883,
         "bought": true
     },
     {
@@ -740,7 +740,7 @@
         "artist": "Michael Jackson",
         "year": 1972,
         "gender":"Pop",
-        "likes": 226,
+        "likes": 3342,
         "bought": true
     },
     {
@@ -748,7 +748,7 @@
         "artist": "Michael Jackson",
         "year": 1972,
         "gender":"Pop",
-        "likes": 228,
+        "likes": 2192,
         "bought": true
     },
     {
@@ -756,7 +756,7 @@
         "artist": "Michael Jackson",
         "year": 1973,
         "gender":"Pop",
-        "likes": 223,
+        "likes": 757,
         "bought": true
     },
     {
@@ -764,15 +764,15 @@
         "artist": "Michael Jackson",
         "year": 1975,
         "gender":"Pop",
-        "likes": 225,
-        "bought": true
+        "likes": 4574,
+        "bought": false
     },
     {
         "name": "Off the Wall",
         "artist": "Michael Jackson",
         "year": 1979,
         "gender":"Pop",
-        "likes": 227,
+        "likes": 5716,
         "bought": true
     },
     {
@@ -780,7 +780,7 @@
         "artist": "Michael Jackson",
         "year": 1982,
         "gender":"Pop",
-        "likes": 229,
+        "likes": 1904,
         "bought": true
     },
     {
@@ -796,7 +796,7 @@
         "artist": "Michael Jackson",
         "year": 1991,
         "gender":"Pop",
-        "likes": 232,
+        "likes": 7225,
         "bought": true
     },
     {
@@ -804,7 +804,7 @@
         "artist": "Michael Jackson",
         "year": 1995,
         "gender":"Pop",
-        "likes": 234,
+        "likes": 6525,
         "bought": true
     },
     {
@@ -812,15 +812,15 @@
         "artist": "Michael Jackson",
         "year": 1997,
         "gender":"Pop",
-        "likes": 236,
-        "bought": true
+        "likes": 4981,
+        "bought": false
     },
     {
         "name": "Invincible",
         "artist": "Michael Jackson",
         "year": 2001,
         "gender":"Pop",
-        "likes": 238,
+        "likes": 2175,
         "bought": true
     },
     {
@@ -828,15 +828,15 @@
         "artist": "Michael Jackson",
         "year": 2010,
         "gender":"Pop",
-        "likes": 231,
-        "bought": true
+        "likes": 4166,
+        "bought": false
     },
     {
         "name": "Xscape",
         "artist": "Michael Jackson",
         "year": 2014,
         "gender":"Pop",
-        "likes": 233,
+        "likes": 147,
         "bought": true
     },
     {
@@ -844,15 +844,15 @@
         "artist": "Archive",
         "year": 1996,
         "gender":"Electronic",
-        "likes": 2520,
-        "bought": false
+        "likes": 6520,
+        "bought": true
     },   
     {
         "name": "Take My Head",
         "artist": "Archive",
         "year": 1999,
         "gender":"Electronic",
-        "likes": 2522,
+        "likes": 2474,
         "bought": false
     },
     {
@@ -860,7 +860,7 @@
         "artist": "Archive",
         "year": 2002,
         "gender":"Electronic",
-        "likes": 2524,
+        "likes": 3447,
         "bought": false
     },
     {
@@ -868,15 +868,15 @@
         "artist": "Archive",
         "year": 2004,
         "gender":"Electronic",
-        "likes": 2526,
-        "bought": false
+        "likes": 3043,
+        "bought": true
     },
     {
         "name": "Lights ",
         "artist": "Archive",
         "year": 2006,
         "gender":"Electronic",
-        "likes": 2528,
+        "likes": 7020,
         "bought": false
     },
     {
@@ -884,7 +884,7 @@
         "artist": "Archive",
         "year": 2009,
         "gender":"Electronic",
-        "likes": 2521,
+        "likes": 3290,
         "bought": false
     },
     {
@@ -892,15 +892,15 @@
         "artist": "Archive",
         "year": 2012,
         "gender":"Electronic",
-        "likes": 2523,
-        "bought": false
+        "likes": 3678,
+        "bought": true
     },
     {
         "name": "With Us Until You're Dead ",
         "artist": "Archive",
         "year": 2012,
         "gender":"Electronic",
-        "likes": 2525,
+        "likes": 4323,
         "bought": false
     },
     {
@@ -908,7 +908,7 @@
         "artist": "Archive",
         "year": 2014,
         "gender":"Electronic",
-        "likes": 2527,
+        "likes": 4025,
         "bought": false
     },
     {
@@ -916,7 +916,7 @@
         "artist": "Archive",
         "year": 2015,
         "gender":"Electronic",
-        "likes": 2529,
+        "likes": 2319,
         "bought": false
     },
     {
@@ -924,7 +924,7 @@
         "artist": "Archive",
         "year": 2016,
         "gender":"Electronic",
-        "likes": 2524,
+        "likes": 6833,
         "bought": false
     },
     {
@@ -932,7 +932,7 @@
         "artist": "Archive",
         "year": 2022,
         "gender":"Electronic",
-        "likes": 2526,
+        "likes": 7653,
         "bought": false
     },
     {
@@ -940,46 +940,46 @@
         "artist": "Daft Punk",
         "year": 1997,
         "gender":"Electronic",
-        "likes": 2528,
-        "bought": false
+        "likes": 5092,
+        "bought": true
     },
     {
         "name": "Discovery",
         "artist": "Daft Punk",
         "year": 2001,
         "gender":"Electronic",
-        "likes": 2521,
-        "bought": false
+        "likes": 7913,
+        "bought": true
     },
     {
         "name": "Human After All",
         "artist": "Daft Punk",
         "year": 2005,
         "gender":"Electronic",
-        "likes": 2523,
-        "bought": false
+        "likes": 4953,
+        "bought": true
     },{
         "name": "Random Access Memories",
         "artist": "Daft Punk",
         "year": 2013,
         "gender":"Electronic",
-        "likes": 5255,
-        "bought": false
+        "likes": 2505,
+        "bought": true
     },
     {
         "name": "Taylor Swift",
         "artist": "Taylor Swift",
         "year": 2006,
         "gender":"Pop",
-        "likes": 5871,
-        "bought": true
+        "likes": 2105,
+        "bought": false
     },
     {
         "name": "Fearless",
         "artist": "Taylor Swift",
         "year": 2008,
         "gender":"Pop",
-        "likes": 7286,
+        "likes": 7432,
         "bought": true
     },
     {
@@ -995,15 +995,15 @@
         "artist": "Taylor Swift",
         "year": 2012,
         "gender":"Pop",
-        "likes": 4582,
-        "bought": true
+        "likes": 1667,
+        "bought": false
     },
     {
         "name": "1989",
         "artist": "Taylor Swift",
         "year": 2014,
         "gender":"Pop",
-        "likes": 6472,
+        "likes": 7806,
         "bought": true
     },
     {
@@ -1011,39 +1011,39 @@
         "artist": "Taylor Swift",
         "year": 2017,
         "gender":"Pop",
-        "likes": 2478,
-        "bought": true
+        "likes": 7044,
+        "bought": false
     },
     {
         "name": "Lover",
         "artist": "Taylor Swift",
         "year": 2019,
         "gender":"Pop",
-        "likes": 2000,
-        "bought": true
+        "likes": 7818,
+        "bought": false
     },
     {
         "name": "Folklore",
         "artist": "Taylor Swift",
         "year": 2020,
         "gender":"Pop",
-        "likes": 2289,
-        "bought": true
+        "likes": 5928,
+        "bought": false
     },
     {
         "name": "Evermore",
         "artist": "Taylor Swift",
         "year": 2020,
         "gender":"Pop",
-        "likes": 913,
-        "bought": true
+        "likes": 6210,
+        "bought": false
     },
     {
         "name": "Midnights",
         "artist": "Taylor Swift",
         "year": 2022,
         "gender":"Pop",
-        "likes": 2814,
+        "likes": 505,
         "bought": true
     },
     {
@@ -1052,6 +1052,6 @@
         "year": 2024,
         "gender":"Pop",
         "likes": null,
-        "bought": true
+        "bought": false
     }
 ]
