@@ -1053,5 +1053,278 @@
         "gender":"Pop",
         "likes": null,
         "bought": false
+    },
+    {
+        "name": "Elvis Presley",
+        "artist": "Elvis Presley",
+        "year": 1956,
+        "gender":"Rock and Roll",
+        "likes": 3759,
+        "bought": true
+    },
+    {
+        "name": "Elvis",
+        "artist": "Elvis Presley",
+        "year": 1956,
+        "gender":"Rock and Roll",
+        "likes": 1431,
+        "bought": false
+    },
+    {
+        "name": "Elvis' Christmas Album",
+        "artist": "Elvis Presley",
+        "year": 1957,
+        "gender":"Rock and Roll",
+        "likes": 1668,
+        "bought": false
+    },
+    {
+        "name": "Elvis Is Back!",
+        "artist": "Elvis Presley",
+        "year": 1960,
+        "gender":"Rock and Roll",
+        "likes": 5726,
+        "bought": true
+    },
+    {
+        "name": "His Hand in Mine",
+        "artist": "Elvis Presley",
+        "year": 1960,
+        "gender":"Rock and Roll",
+        "likes": 7087,
+        "bought": true
+    },
+    {
+        "name": "Something for Everybody",
+        "artist": "Elvis Presley",
+        "year": 1961,
+        "gender":"Rock and Roll",
+        "likes": 289,
+        "bought": false
+    },
+    {
+        "name": "Pot Luck",
+        "artist": "Elvis Presley",
+        "year": 1962,
+        "gender":"Rock and Roll",
+        "likes": 1906,
+        "bought": false
+    },
+    {
+        "name": "Elvis for Everyone!",
+        "artist": "Elvis Presley",
+        "year": 1965,
+        "gender":"Rock and Roll",
+        "likes": 5684,
+        "bought": true
+    },
+    {
+        "name": "How Great Thou Art ",
+        "artist": "Elvis Presley",
+        "year": 1967,
+        "gender":"Rock and Roll",
+        "likes": 6527,
+        "bought": true
+    },
+    {
+        "name": "From Elvis in Memphis",
+        "artist": "Elvis Presley",
+        "year": 1969,
+        "gender":"Rock and Roll",
+        "likes": 2022,
+        "bought": false
+    },
+    {
+        "name": "From Memphis to Vegas / From Vegas to Memphis ",
+        "artist": "Elvis Presley",
+        "year": 1969,
+        "gender":"Rock and Roll",
+        "likes": 7811,
+        "bought": true
+    },
+    {
+        "name": "That's the Way It Is",
+        "artist": "Elvis Presley",
+        "year": 1970,
+        "gender":"Rock and Roll",
+        "likes": 5931,
+        "bought": true
+    },
+    {
+        "name": "Elvis Country (I'm 10,000 Years Old)",
+        "artist": "Elvis Presley",
+        "year": 1971,
+        "gender":"Rock and Roll",
+        "likes": null,
+        "bought": false
+    },
+    {
+        "name": "Love Letters from Elvis",
+        "artist": "Elvis Presley",
+        "year": 1971,
+        "gender":"Rock and Roll",
+        "likes": 5554,
+        "bought": true
+    },
+    {
+        "name": "Elvis sings The Wonderful World of Christmas",
+        "artist": "Elvis Presley",
+        "year": 1971,
+        "gender":"Rock and Roll",
+        "likes": 4282,
+        "bought": true
+    },
+    {
+        "name": "Elvis Now",
+        "artist": "Elvis Presley",
+        "year": 1972,
+        "gender":"Rock and Roll",
+        "likes": 4673,
+        "bought": true
+    },
+    {
+        "name": "He Touched Me ",
+        "artist": "Elvis Presley",
+        "year": 1972,
+        "gender":"Rock and Roll",
+        "likes": 6818,
+        "bought": true
+    },
+    {
+        "name": "Elvis",
+        "artist": "Elvis Presley",
+        "year": 1973,
+        "gender":"Rock and Roll",
+        "likes": 2619,
+        "bought": false
+    },
+    {
+        "name": "Good Times",
+        "artist": "Elvis Presley",
+        "year": 1974,
+        "gender":"Rock and Roll",
+        "likes": null,
+        "bought": false
+    },
+    {
+        "name": "Promised Land ",
+        "artist": "Elvis Presley",
+        "year": 1975,
+        "gender":"Rock and Roll",
+        "likes": 6906,
+        "bought": true
+    },
+    {
+        "name": "Today",
+        "artist": "Elvis Presley",
+        "year": 1975,
+        "gender":"Rock and Roll",
+        "likes": 2547,
+        "bought": false
+    },
+    {
+        "name": "From Elvis Presley Boulevard, Memphis, Tennessee",
+        "artist": "Elvis Presley",
+        "year": 1976,
+        "gender":"Rock and Roll",
+        "likes": 4986,
+        "bought": true
+    },
+    {
+        "name": "Moody Blue",
+        "artist": "Elvis Presley",
+        "year": 1977,
+        "gender":"Rock and Roll",
+        "likes": 1312,
+        "bought": false
+    },
+    {
+        "name": "Supertramp",
+        "artist": "Supertramp",
+        "year": 1970,
+        "gender":"Progressive Pop",
+        "likes": 1894,
+        "bought": false
+    },
+    {
+        "name": "Indelibly Stamped",
+        "artist": "Supertramp",
+        "year": 1971,
+        "gender":"Progressive Pop",
+        "likes": 6751,
+        "bought": true
+    },
+    {
+        "name": "Crime of the Century ",
+        "artist": "Supertramp",
+        "year": 1974,
+        "gender":"Progressive Pop",
+        "likes": 784,
+        "bought": false
+    },
+    {
+        "name": "Crisis? What Crisis?",
+        "artist": "Supertramp",
+        "year": 1975,
+        "gender":"Progressive Pop",
+        "likes": 3250,
+        "bought": true
+    },
+    {
+        "name": "Even in the Quietest Moments...",
+        "artist": "Supertramp",
+        "year": 1977,
+        "gender":"Progressive Pop",
+        "likes": 233,
+        "bought": false
+    },
+    {
+        "name": "Breakfast in America",
+        "artist": "Supertramp",
+        "year": 1979,
+        "gender":"Progressive Pop",
+        "likes": 7054,
+        "bought": true
+    },
+    {
+        "name": "...Famous Last Words... ",
+        "artist": "Supertramp",
+        "year": 1985,
+        "gender":"Progressive Pop",
+        "likes": 4129,
+        "bought": true
+    },
+    {
+        "name": "Brother Where You Bound",
+        "artist": "Supertramp",
+        "year": 1985,
+        "gender":"Progressive Pop",
+        "likes": 4080,
+        "bought": true
+    },
+    {
+        "name": "Free as a Bird",
+        "artist": "Supertramp",
+        "year": 1987,
+        "gender":"Progressive Pop",
+        "likes": 1312,
+        "bought": false
+    },
+    {
+        "name": "Some Things Never Change",
+        "artist": "Supertramp",
+        "year": 1997,
+        "gender":"Progressive Pop",
+        "likes": 6954,
+        "bought": true
+    },
+    {
+        "name": "Slow Motion",
+        "artist": "Supertramp",
+        "year": 2002,
+        "gender":"Progressive Pop",
+        "likes": 976,
+        "bought": false
     }
+
 ]
