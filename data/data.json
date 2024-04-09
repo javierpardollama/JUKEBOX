@@ -21,7 +21,7 @@
         "year": 1974,
         "gender":"Rock",
         "likes": 2427,
-        "bought": true
+        "bought": false
     },
     {
         "name": "A Night at the Opera",
@@ -45,7 +45,7 @@
         "year": 1978,
         "gender":"Rock",
         "likes": 1377,
-        "bought": true
+        "bought": false
     },
     {
         "name": "The Game",
@@ -61,7 +61,7 @@
         "year": 1982,
         "gender":"Rock",
         "likes": 1762,
-        "bought": true
+        "bought": false
     },
     {
         "name": "The Works",
@@ -69,7 +69,7 @@
         "year": 1984,
         "gender":"Rock",
         "likes": 5530,
-        "bought": true
+        "bought": false
     },
     {
         "name": "A Kind of Magic",
@@ -109,7 +109,7 @@
         "year": 1989,
         "gender":"Rock",
         "likes": 772,
-        "bought": true
+        "bought": false
     },
     {
         "name": "Nevermind",
@@ -133,7 +133,7 @@
         "year": 1963,
         "gender":"Rock",
         "likes": 857,
-        "bought": true
+        "bought": false
     },
     {
         "name": "With the Beatles",
@@ -149,7 +149,7 @@
         "year": 1964,
         "gender":"Rock",
         "likes": 4856,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Meet the Beatles!",
@@ -157,7 +157,7 @@
         "year": 1964,
         "gender":"Rock",
         "likes": 7744,
-        "bought": false
+        "bought": true
     },
     {
         "name": "The Beatles' Second Album",
@@ -165,7 +165,7 @@
         "year": 1964,
         "gender":"Rock",
         "likes": 259,
-        "bought": true
+        "bought": false
     },
     {
         "name": "A Hard Day's Night",
@@ -173,7 +173,7 @@
         "year": 1964,
         "gender":"Rock",
         "likes": 6619,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Something New",
@@ -213,7 +213,7 @@
         "year": 1965,
         "gender":"Rock",
         "likes": 6941,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Help!",
@@ -229,7 +229,7 @@
         "year": 1965,
         "gender":"Rock",
         "likes": 5927,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Yesterday and Today",
@@ -237,7 +237,7 @@
         "year": 1966,
         "gender":"Rock",
         "likes": 8723,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Revolver ",
@@ -245,7 +245,7 @@
         "year": 1966,
         "gender":"Rock",
         "likes": 304,
-        "bought": true
+        "bought": false
     },
     {
         "name": "Sgt. Pepper's Lonely Hearts Club Band",
@@ -253,7 +253,7 @@
         "year": 1967,
         "gender":"Rock",
         "likes": 5256,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Magical Mystery Tour",
@@ -261,7 +261,7 @@
         "year": 1967,
         "gender":"Rock",
         "likes": 5613,
-        "bought": false
+        "bought": true
     },
     {
         "name": "The BEATLES",
@@ -277,7 +277,7 @@
         "year": 1968,
         "gender":"Rock",
         "likes": 3905,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Abbey Road",
@@ -317,7 +317,7 @@
         "year": 1975,
         "gender":"Pop",
         "likes": 4119,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Arrival",
@@ -333,7 +333,7 @@
         "year": 1977,
         "gender":"Pop",
         "likes": 6545,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Voulez-Vous",
@@ -341,7 +341,7 @@
         "year": 1979,
         "gender":"Pop",
         "likes": 6427,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Super Trouper",
@@ -349,7 +349,7 @@
         "year": 1980,
         "gender":"Pop",
         "likes": 618,
-        "bought": true
+        "bought": false
     },
     {
         "name": "The Visitors",
@@ -381,7 +381,7 @@
         "year": 2015,
         "gender":"Pop Rock",
         "likes": 5875,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Origins",
@@ -389,7 +389,7 @@
         "year": 2017,
         "gender":"Pop Rock",
         "likes": 6878,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Mercury – Act 1",
@@ -397,7 +397,7 @@
         "year": 2018,
         "gender":"Pop Rock",
         "likes": 5493,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Showbiz",
@@ -413,7 +413,7 @@
         "year": 2001,
         "gender":"Alternative Rock",
         "likes": 7660,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Absolution",
@@ -421,7 +421,7 @@
         "year": 2003,
         "gender":"Alternative Rock",
         "likes": 4077,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Black Holes and Revelations",
@@ -461,7 +461,7 @@
         "year": 2018,
         "gender":"Alternative Rock",
         "likes": 5890,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Will of the People",
@@ -501,7 +501,7 @@
         "artist": "David Bowie",
         "year": 1967,
         "gender":"Rock",
-        "bought": true
+        "bought": false
     },
     {
         "name": "Space Oddity",
@@ -517,7 +517,7 @@
         "year": 1969,
         "gender":"Rock",
         "likes": 5680,
-        "bought": false
+        "bought": true
     },
     {
         "name": "The Man Who Sold the World",
@@ -533,7 +533,7 @@
         "year": 1971,
         "gender":"Rock",
         "likes": 7242,
-        "bought": false
+        "bought": true
     },
     {
         "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
@@ -541,7 +541,7 @@
         "year": 1972,
         "gender":"Rock",
         "likes": 496,
-        "bought": true
+        "bought": false
     },
     {
         "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
@@ -549,7 +549,7 @@
         "year": 1972,
         "gender":"Rock",
         "likes": 1735,
-        "bought": true
+        "bought": false
     },
     {
         "name": "Aladdin Sane",
@@ -557,7 +557,7 @@
         "year": 1973,
         "gender":"Rock",
         "likes": 565,
-        "bought": true
+        "bought": false
     },
     {
         "name": "Pin Ups",
@@ -573,7 +573,7 @@
         "year": 1974,
         "gender":"Rock",
         "likes": 4310,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Young Americans",
@@ -589,7 +589,7 @@
         "year": 1976,
         "gender":"Rock",
         "likes": 1245,
-        "bought": true
+        "bought": false
     },
     {
         "name": "Low",
@@ -605,7 +605,7 @@
         "year": 1977,
         "gender":"Rock",
         "likes": 792,
-        "bought": true
+        "bought": false
     },
     {
         "name": "Lodger",
@@ -613,7 +613,7 @@
         "year": 1979,
         "gender":"Rock",
         "likes": 4471,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Scary Monsters (and Super Creeps)",
@@ -621,7 +621,7 @@
         "year": 1980,
         "gender":"Rock",
         "likes": 5344,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Let's Dance",
@@ -661,7 +661,7 @@
         "year": 1995,
         "gender":"Rock",
         "likes": 6567,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Earthlinge",
@@ -709,7 +709,7 @@
         "year": 2016,
         "gender":"Rock",
         "likes": 5985,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Spice",
@@ -717,7 +717,7 @@
         "year": 1996,
         "gender":"Pop",
         "likes": 1107,
-        "bought": true
+        "bought": false
     },
     {
         "name": "Spiceworld",
@@ -749,7 +749,7 @@
         "year": 1972,
         "gender":"Pop",
         "likes": 2192,
-        "bought": true
+        "bought": false
     },
     {
         "name": "Music and Me",
@@ -757,7 +757,7 @@
         "year": 1973,
         "gender":"Pop",
         "likes": 757,
-        "bought": true
+        "bought": false
     },
     {
         "name": "Forever, Michael",
@@ -765,7 +765,7 @@
         "year": 1975,
         "gender":"Pop",
         "likes": 4574,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Off the Wall",
@@ -781,7 +781,7 @@
         "year": 1982,
         "gender":"Pop",
         "likes": 1904,
-        "bought": true
+        "bought": false
     },
     {
         "name": "Bad",
@@ -789,7 +789,7 @@
         "year": 1987,
         "gender":"Pop",
         "likes": 230,
-        "bought": true
+        "bought": false
     },
     {
         "name": "Dangerous",
@@ -813,7 +813,7 @@
         "year": 1997,
         "gender":"Pop",
         "likes": 4981,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Invincible",
@@ -821,7 +821,7 @@
         "year": 2001,
         "gender":"Pop",
         "likes": 2175,
-        "bought": true
+        "bought": false
     },
     {
         "name": "Michael",
@@ -829,7 +829,7 @@
         "year": 2010,
         "gender":"Pop",
         "likes": 4166,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Xscape",
@@ -837,7 +837,7 @@
         "year": 2014,
         "gender":"Pop",
         "likes": 147,
-        "bought": true
+        "bought": false
     },
     {
         "name": "Londinium",
@@ -861,7 +861,7 @@
         "year": 2002,
         "gender":"Electronic",
         "likes": 3447,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Noise",
@@ -877,7 +877,7 @@
         "year": 2006,
         "gender":"Electronic",
         "likes": 7020,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Controlling Crowds",
@@ -901,7 +901,7 @@
         "year": 2012,
         "gender":"Electronic",
         "likes": 4323,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Axiom",
@@ -909,7 +909,7 @@
         "year": 2014,
         "gender":"Electronic",
         "likes": 4025,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Restriction",
@@ -925,7 +925,7 @@
         "year": 2016,
         "gender":"Electronic",
         "likes": 6833,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Call to Arms and Angels",
@@ -933,7 +933,7 @@
         "year": 2022,
         "gender":"Electronic",
         "likes": 7653,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Homework",
@@ -964,7 +964,7 @@
         "year": 2013,
         "gender":"Electronic",
         "likes": 2505,
-        "bought": true
+        "bought": false
     },
     {
         "name": "Taylor Swift",
@@ -1012,7 +1012,7 @@
         "year": 2017,
         "gender":"Pop",
         "likes": 7044,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Lover",
@@ -1020,7 +1020,7 @@
         "year": 2019,
         "gender":"Pop",
         "likes": 7818,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Folklore",
@@ -1028,7 +1028,7 @@
         "year": 2020,
         "gender":"Pop",
         "likes": 5928,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Evermore",
@@ -1036,7 +1036,7 @@
         "year": 2020,
         "gender":"Pop",
         "likes": 6210,
-        "bought": false
+        "bought": true
     },
     {
         "name": "Midnights",
@@ -1044,7 +1044,7 @@
         "year": 2022,
         "gender":"Pop",
         "likes": 505,
-        "bought": true
+        "bought": false
     },
     {
         "name": "The Tortured Poets Department",
