@@ -1,10 +1,9 @@
 from dataclasses import dataclass
-from typing import Optional
 
 
 @dataclass
 class Disk:
-    def __init__(self, artist: str, name: str, year: int, gender: str, likes: Optional[int], bought: bool) -> None:
+    def __init__(self, artist: str, name: str, year: int, gender: str, likes: int | None, bought: bool) -> None:
         self.name = name
         self.artist = artist
         self.year = year

@@ -1,4 +1,3 @@
-from typing import Optional
 from services.data_service import DataService
 
 
@@ -97,7 +96,7 @@ class ShellService:
         name: str = input("¿Nombre del Albumn?")
         year: int = int(input("¿Año de Publicación?"))
         gender: str = input("¿Genero del Albumn?")
-        likes: int = Optional[int](input("¿Nº de Likes?"))
+        likes: int | None = int | None(input("¿Nº de Likes?"))
         self.data_service.add(artist, name, year, gender, likes)
         print("Disco Creado")
 
@@ -106,7 +105,7 @@ class ShellService:
         name: str = input("¿Nombre del Albumn?")
         year: int = int(input("¿Año de Publicación?"))
         gender: str = input("¿Genero del Albumn?")
-        likes: int = Optional[int](input("¿Nº de Likes?"))
+        likes: int | None = int | None(input("¿Nº de Likes?"))
         self.data_service.update(artist, name, year, gender, likes)
         print("Disco Actualizado")
 

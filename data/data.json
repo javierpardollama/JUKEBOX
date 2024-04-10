@@ -501,6 +501,7 @@
         "artist": "David Bowie",
         "year": 1967,
         "gender":"Rock",
+        "likes": null,
         "bought": false
     },
     {

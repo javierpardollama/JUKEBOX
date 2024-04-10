@@ -1,4 +1,3 @@
-from typing import Optional
 from models.disk import Disk
 import json
 
@@ -8,10 +7,10 @@ class DataService:
     def __init__(self) -> None:
         self.data: list[Disk] = []
 
-    def add(self, artist: str, name: str, year: int, gender: str, likes: Optional[int]) -> None:
+    def add(self, artist: str, name: str, year: int, gender: str, likes: int | None) -> None:
         self.data.append(Disk(artist, name, year, gender, likes, False))
 
-    def update(self, artist: str, name: str, year: int, gender: str, likes: Optional[int]) -> None:
+    def update(self, artist: str, name: str, year: int, gender: str, likes:  int | None) -> None:
         idx = map(lambda item: item.name.startswith(
             name), self.data).index(True)
         
@@ -87,7 +86,7 @@ class DataService:
             temp = json.load(file)
             for x in temp:
                 self.data.append(
-                    Disk(x['artist'], x['name'], int(x['year']), x['gender'], Optional[int](x['likes']), bool(x['bought'])))
+                    Disk(x['artist'], x['name'],  x['gender'], int(x['year']),int(0 if x['likes'] is None else x['likes']), bool(x['bought'])))
 
     def save(self) -> None:
         temp = json.dumps([ob.__dict__ for ob in self.data], indent=4)
