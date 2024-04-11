@@ -35,12 +35,12 @@ class ShellService:
 
     def delete_menu(self) -> None:
         while not self.exit:
-            option: str = input("\n" +
+            option: str = (input("\n" +
                                 "******* Menu de Borrado ********** \n" +
                                 "1. Borrar Album por Nombre \n" +
                                 "2. Borrar Albumes por Artista \n" +
                                 "3. Borrar Albumes por Año \n" +
-                                "4. Salir \n")
+                                "4. Salir \n"))
 
             match option:
                 case "1":
@@ -56,14 +56,14 @@ class ShellService:
 
     def search_menu(self) -> None:
         while not self.exit:
-            option: str = input("\n" +
+            option: str = (input("\n" +
                                 "******* Menu de Búsqueda ********** \n" +
                                 "1. Lista Todos los Albumes \n" +
                                 "2. Listar Albumes por Nombre \n" +
                                 "3. Listar Albumes por Artista \n" +
-                                "4. Listar Albumes por Año \n" + +
+                                "4. Listar Albumes por Año \n" +
                                 "5. Listar Albumes por Genero \n" +
-                                "6. Salir \n")
+                                "6. Salir \n"))
 
             match option:
                 case "1":
@@ -92,25 +92,25 @@ class ShellService:
         quit()
 
     def add(self) -> None:
-        artist: str = input("¿Nombre del Artista?")
-        name: str = input("¿Nombre del Albumn?")
+        name: str = input("¿Nombre del Album?")
+        artist: str = input("¿Nombre del Artista?")        
         year: int = int(input("¿Año de Publicación?"))
         gender: str = input("¿Genero del Albumn?")
-        likes: int | None = int | None(input("¿Nº de Likes?"))
-        self.data_service.add(artist, name, year, gender, likes)
+        likes: int = int(input("¿Nº de Likes?"))
+        self.data_service.add(name, artist, year, gender, likes)
         print("Disco Creado")
 
     def update(self) -> None:
-        artist: str = input("¿Nombre del Artista?")
-        name: str = input("¿Nombre del Albumn?")
+        name: str = input("¿Nombre del Album?")
+        artist: str = input("¿Nombre del Artista?")       
         year: int = int(input("¿Año de Publicación?"))
         gender: str = input("¿Genero del Albumn?")
-        likes: int | None = int | None(input("¿Nº de Likes?"))
-        self.data_service.update(artist, name, year, gender, likes)
+        likes: int = int(input("¿Nº de Likes?"))
+        self.data_service.update(name, artist, year, gender, likes)
         print("Disco Actualizado")
 
     def delete_by_name(self) -> None:
-        name: str = input("¿Nombre del Albumn?")
+        name: str = input("¿Nombre del Album?")
         self.data_service.delete_by_name(name)
         print("Disco Borrado")
 
@@ -128,7 +128,7 @@ class ShellService:
         self.data_service.get_all()
 
     def get_all_by_name(self) -> None:
-        name: str = input("¿Nombre del Albumn?")
+        name: str = input("¿Nombre del Album?")
         self.data_service.get_all_by_name(name)
 
     def get_all_by_artist(self) -> None:

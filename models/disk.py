@@ -3,11 +3,11 @@ from dataclasses import dataclass
 
 @dataclass
 class Disk:
-    def __init__(self, artist: str, name: str, year: int, gender: str, likes: int | None, bought: bool) -> None:
+    def __init__(self, name: str, artist: str,year: int,  gender: str, likes: int | None, bought: bool) -> None:
         self.name = name
         self.artist = artist
         self.year = year
-        self.gender = gender
+        self.gender = gender            
         self.likes = likes
         self.bought = bought
 
