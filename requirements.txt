@@ -1,3 +1,5 @@
+ipython
+matplotlib
 pandas
 scikit-learn
 seaborn
